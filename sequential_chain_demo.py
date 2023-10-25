@@ -50,3 +50,9 @@ print(type(results))
 print(results.keys)
 print('--'*50)
 print(results['final_plan'])
+
+
+"""
+Want to learn data science from industry experts?
+CHECK IT: https://turingcollege.org/DataScienceGarage
+"""
