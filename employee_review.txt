@@ -1,0 +1,22 @@
+Employee Information:
+Name: Joe Schmo
+Position: Software Engineer
+Date of Review: July 15, 2023
+
+Strenghts:
+Joe is a highly skilled software engineer with a deep understanding of programming languages.
+
+One of Joe's greatest strenghts is his collaborative nature.
+
+Joe consistently demonstrates initiative and self-motivating. He takes the lead in seeking new ways to suceed.
+
+Another notable strenght is Joe's adaptibility. He has shown great flexibility in handling difficult situations.
+
+Joe's problem-solving skills are exceptional. He approaches issues with a logical mindset even in the most complicated cases.
+
+Weaknesses:
+While Joe possesses numerous strengts, there are few areas where he could benefit from improve his time management skills.
+
+Another area of improvement is Joe's written communication skill. While he communicates well, he can improve his official language in mails and official letters.
+
+Additionally, Joe tends to take too many responsibilities in one time and hesitate to delegate tasks to others. Sometimes he get lost in his tasks.
